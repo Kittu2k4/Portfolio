@@ -1,7 +1,7 @@
 # My Portfolio
 Welcome to my portfolio! This project showcases my skills, projects, and experiences as a web developer.
 
-### Weblink: [Live Website](https://portfolioabhimanyu.netlify.app/)
+### Weblink: [Live Website](https://vivekvardhanportfolio.netlify.app/)
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -32,7 +32,7 @@ My Portfolio is a React.js application that serves as an online portfolio to sho
 ## Installation
 To run this portfolio locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/s-abhimanyu/Portfolio/`
+1. Clone the repository: `git clone https://github.com/kittu2k4/Portfolio/`
 2. Install the dependencies: `npm install`
 3. Start the development server: `npm start`
 4. Open your browser and visit: `http://localhost:3000`
